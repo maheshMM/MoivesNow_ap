@@ -36,7 +36,7 @@ function App() {
   return (
 
     <div className="App">
-    <h1> Moives Now App</h1> 
+    <h1>  Moives Now App</h1> 
     {/* <LocSelectorDropDown></LocSelectorDropDown>  */}
       <LocationSelector></LocationSelector>  
     <UserDirectory></UserDirectory> 
