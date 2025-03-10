@@ -1,4 +1,4 @@
-The Movie app view
+The Movie App View
 ![image](https://github.com/user-attachments/assets/84e24206-2369-46a3-8859-5905eeb57d58)
 
 
