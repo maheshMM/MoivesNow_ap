@@ -37,8 +37,8 @@ function App() {
 
     <div className="App">
     <h1>  Moives Now App</h1> 
-    {/* <LocSelectorDropDown></LocSelectorDropDown>  */}
-      <LocationSelector></LocationSelector>  
+    <LocSelectorDropDown></LocSelectorDropDown>  
+      {/* <LocationSelector></LocationSelector>   */}
     <UserDirectory></UserDirectory> 
      <HomePage setData={setData} watchLaterCount={count} searchValue = {search} setSearch = {setSearch} SearchHandle = {SearchHandle} allMovieData={allMovieData} tglSrcGoBack={tglSrcGoBack} setTglSrcGoBack={setTglSrcGoBack}></HomePage> 
      <MoviesList setCount={setCount} searchValue={search}  moviesData={moviesData} setData={setData}  setAllMovieData={setAllMovieData}></MoviesList> 
