@@ -1,3 +1,32 @@
+The Movie app overall view
+![image](https://github.com/user-attachments/assets/84e24206-2369-46a3-8859-5905eeb57d58)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
